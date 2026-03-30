@@ -11,7 +11,7 @@ export default function App() {
       <Text className="text-5xl font-sans-extrabold ">Home</Text>
 
       <Link href="/(auth)/Sign-In">Sign In</Link>
-      <Link href="/(auth)/Sign-Up">Sign In</Link>
+      <Link href="/(auth)/Sign-Up">Sign Up</Link>
     </SafeAreaView>
   );
 }
